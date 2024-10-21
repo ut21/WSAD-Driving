@@ -2,7 +2,7 @@
 
 WS-DoTA (weakly supervised detection of traffic anomaly) is an extension of the [DoTA dataset](https://arxiv.org/pdf/2004.03044) to make it consistent with the weakly supervised training setup. The figure shows the structure of the dataset:
 
-![alt text](images/docs.jpg)
+![alt text](../images/docs.jpg)
 
 The normal videos (without anomaly) in the train split are taken from the [$D^2-City$ dataset](https://arxiv.org/abs/1904.01975) 
 
